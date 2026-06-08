@@ -47,7 +47,7 @@ export const portfolioData = {
         "A web app to simplify daily life and track finances smartly. Built with vanilla HTML, CSS, and JavaScript.",
       tech: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/yeshwanthsurya2806",
-      live: "#",
+      live: "https://yeshwanthsurya2806.github.io/LifeEase-Mastery/",
       featured: true,
       status: "live",
     },
@@ -89,7 +89,7 @@ export const portfolioData = {
     {
       category: "🔧 Currently Learning",
       icon: "Wrench",
-      skills: ["Full Stack Development", "AI/ML", "IoT"],
+      skills: ["Full Stack Development", "AI/ML"],
       gradient: "neon-purple",
     },
     {
