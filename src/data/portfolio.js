@@ -20,7 +20,6 @@ export const portfolioData = {
     roles: [
       "Full Stack Developer",
       "AI Enthusiast",
-      "IoT Explorer",
       "VIT '28",
       "Open to Internships 🚀",
     ],
